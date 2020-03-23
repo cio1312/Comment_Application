@@ -1,0 +1,16 @@
+[
+  {
+    "name": "valencio",
+    "email": "abc@gmail.com",
+    "comment": "This book is very beautifully written",
+    "date": "22/1/2020",
+    "rating": 3
+  },
+  {
+    "name": "riya",
+    "email": "def@gmail.com",
+    "comment": "i did not like it soo much",
+    "date": "21/1/2020",
+    "rating": 3
+  }
+]
